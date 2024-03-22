@@ -14,7 +14,7 @@ class App extends Component
   {
     return(
         <View style={styles.container}>
-            <Text style={styles.text}>Tasca1 (?) prova</Text>
+            <Text style={styles.text}>Tasca1 hola món</Text>
 
             <TextInput 
                 style={styles.input} 
